@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-09-10 07:43:18">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="DevopsTest">7ec90b651bbf33009614ff37dc4bcb7c</application>
+<application_name>DevopsTest</application_name>
+<application_scope>global</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by CICD Process</description>
+<inserted/>
+<name>DevopsTest – 1.0.0</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>3400dbad1bbf33009614ff37dc4bcb60</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-10 07:43:17</sys_created_on>
+<sys_id>e43093ad1bbf33009614ff37dc4bcbeb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-10 07:43:17</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevopsTest">7ec90b651bbf33009614ff37dc4bcb7c</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_step_750e0f2d1bbf33009614ff37dc4bcb57</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Set the values on the form as follows:
+Short description = Test Devops
+and Caller = Abraham Lincoln</description><display_name>Set Field Values</display_name><inputs/><mugshots_cache_json/><notes/><order>2</order><snapshot/><step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-10 07:35:18</sys_created_on><sys_id>750e0f2d1bbf33009614ff37dc4bcb57</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Set Field Values</sys_name><sys_package display_value="DevopsTest" source="7ec90b651bbf33009614ff37dc4bcb7c">7ec90b651bbf33009614ff37dc4bcb7c</sys_package><sys_policy/><sys_scope display_value="DevopsTest">7ec90b651bbf33009614ff37dc4bcb7c</sys_scope><sys_update_name>sys_atf_step_750e0f2d1bbf33009614ff37dc4bcb57</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-10 07:35:18</sys_updated_on><table>incident</table><test display_value="My New Test">5fbdc32d1bbf33009614ff37dc4bcb53</test><timeout/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=750e0f2d1bbf33009614ff37dc4bcb57"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>750e0f2d1bbf33009614ff37dc4bcb57</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-10 07:35:18</sys_created_on><sys_id>775e0f691bbf33009614ff37dc4bcba8</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-10 07:35:18</sys_updated_on><value>incident</value><variable display_value="">424ca6465320220002c6435723dc34b5</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>750e0f2d1bbf33009614ff37dc4bcb57</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-10 07:35:18</sys_created_on><sys_id>7b5e0f691bbf33009614ff37dc4bcba8</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-10 07:35:18</sys_updated_on><value>short_description=Test Devops^caller_id=a8f98bb0eb32010045e1a5115206fe3a^EQ</value><variable display_value="">b3dba2465320220002c6435723dc34f0</variable></sys_variable_value></record_update>]]></payload>
+<payload_hash>440777700</payload_hash>
+<remote_update_set display_value="DevopsTest – 1.0.0">e43093ad1bbf33009614ff37dc4bcbeb</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-10 07:43:17</sys_created_on>
+<sys_id>2c3093ad1bbf33009614ff37dc4bcbec</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d1a1fb3f60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-10 07:43:17</sys_updated_on>
+<table>incident</table>
+<target_name>Set Field Values</target_name>
+<type>Test Step</type>
+<update_domain>global</update_domain>
+<update_guid>7400dbadd0bf33008e91156d596f7dfc</update_guid>
+<update_guid_history>7400dbadd0bf33008e91156d596f7dfc:440777700,3f5e0f69e1bf33006620c2bcb918a8a9:440777700</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevopsTest">7ec90b651bbf33009614ff37dc4bcb7c</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_fix_46afc7ad1bbf33009614ff37dc4bcb06</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_fix"&gt;&lt;sys_script_fix action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;before&gt;false&lt;/before&gt;&lt;description/&gt;&lt;flush_cache&gt;false&lt;/flush_cache&gt;&lt;name&gt;Scoped Fix Script&lt;/name&gt;&lt;record_for_rollback&gt;false&lt;/record_for_rollback&gt;&lt;run_once&gt;true&lt;/run_once&gt;&lt;script&gt;&lt;![CDATA[gs.log("Hello");]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_fix&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-09-10 07:41:11&lt;/sys_created_on&gt;&lt;sys_id&gt;46afc7ad1bbf33009614ff37dc4bcb06&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Scoped Fix Script&lt;/sys_name&gt;&lt;sys_package display_value="DevopsTest" source="7ec90b651bbf33009614ff37dc4bcb7c"&gt;7ec90b651bbf33009614ff37dc4bcb7c&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="DevopsTest"&gt;7ec90b651bbf33009614ff37dc4bcb7c&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_fix_46afc7ad1bbf33009614ff37dc4bcb06&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-09-10 07:41:11&lt;/sys_updated_on&gt;&lt;unloadable&gt;false&lt;/unloadable&gt;&lt;/sys_script_fix&gt;&lt;/record_update&gt;</payload>
+<payload_hash>552113078</payload_hash>
+<remote_update_set display_value="DevopsTest – 1.0.0">e43093ad1bbf33009614ff37dc4bcbeb</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-10 07:43:17</sys_created_on>
+<sys_id>2c309fad1bbf33009614ff37dc4bcbed</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d1a1fb4400000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-10 07:43:17</sys_updated_on>
+<table/>
+<target_name>Scoped Fix Script</target_name>
+<type>Fix Script</type>
+<update_domain>global</update_domain>
+<update_guid>38001fad96bf3300a5592d207a3aec01</update_guid>
+<update_guid_history>38001fad96bf3300a5592d207a3aec01:552113078,cebfc7ad9fbf33007fdb76a941c13fd6:552113078</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevopsTest">7ec90b651bbf33009614ff37dc4bcb7c</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_test_5fbdc32d1bbf33009614ff37dc4bcb53</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test"><sys_atf_test action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description/><enable_parameterized_testing>false</enable_parameterized_testing><name>My New Test</name><parameters/><remember/><sys_class_name>sys_atf_test</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-10 07:32:41</sys_created_on><sys_id>5fbdc32d1bbf33009614ff37dc4bcb53</sys_id><sys_mod_count>0</sys_mod_count><sys_name>My New Test</sys_name><sys_package display_value="DevopsTest" source="7ec90b651bbf33009614ff37dc4bcb7c">7ec90b651bbf33009614ff37dc4bcb7c</sys_package><sys_policy/><sys_scope display_value="DevopsTest">7ec90b651bbf33009614ff37dc4bcb7c</sys_scope><sys_update_name>sys_atf_test_5fbdc32d1bbf33009614ff37dc4bcb53</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-10 07:32:41</sys_updated_on></sys_atf_test><sys_variable_value action="delete_multiple" query="document_key=5fbdc32d1bbf33009614ff37dc4bcb53"/></record_update>]]></payload>
+<payload_hash>-1841692588</payload_hash>
+<remote_update_set display_value="DevopsTest – 1.0.0">e43093ad1bbf33009614ff37dc4bcbeb</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-10 07:43:17</sys_created_on>
+<sys_id>643093ad1bbf33009614ff37dc4bcbed</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d1a1fb45e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-10 07:43:17</sys_updated_on>
+<table/>
+<target_name>My New Test</target_name>
+<type>Test</type>
+<update_domain>global</update_domain>
+<update_guid>f4001fadaabf33001294c68fdb666703</update_guid>
+<update_guid_history>f4001fadaabf33001294c68fdb666703:-1841692588,e5cdc369a8bf33008e298743b4a4e058:-1841692588</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevopsTest">7ec90b651bbf33009614ff37dc4bcb7c</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_step_1edd872d1bbf33009614ff37dc4bcb51</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Open a new 'Incident' form</description><display_name>Open a New Form</display_name><inputs/><mugshots_cache_json/><notes/><order>1</order><snapshot/><step_config display_value="Open a New Form">05317cd10b10220050192f15d6673af8</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-10 07:33:36</sys_created_on><sys_id>1edd872d1bbf33009614ff37dc4bcb51</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Open a New Form</sys_name><sys_package display_value="DevopsTest" source="7ec90b651bbf33009614ff37dc4bcb7c">7ec90b651bbf33009614ff37dc4bcb7c</sys_package><sys_policy/><sys_scope display_value="DevopsTest">7ec90b651bbf33009614ff37dc4bcb7c</sys_scope><sys_update_name>sys_atf_step_1edd872d1bbf33009614ff37dc4bcb51</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-10 07:33:36</sys_updated_on><table>incident</table><test display_value="My New Test">5fbdc32d1bbf33009614ff37dc4bcb53</test><timeout/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=1edd872d1bbf33009614ff37dc4bcb51"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>1edd872d1bbf33009614ff37dc4bcb51</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-10 07:33:36</sys_created_on><sys_id>32fdcb2d1bbf33009614ff37dc4bcb79</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-10 07:33:36</sys_updated_on><value>incident</value><variable display_value="">bb84ed825320220002c6435723dc3400</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>1edd872d1bbf33009614ff37dc4bcb51</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-10 07:33:36</sys_created_on><sys_id>b6fdcb2d1bbf33009614ff37dc4bcb78</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-10 07:33:36</sys_updated_on><value/><variable display_value="">27d4e1c25320220002c6435723dc3486</variable></sys_variable_value></record_update>]]></payload>
+<payload_hash>1379604172</payload_hash>
+<remote_update_set display_value="DevopsTest – 1.0.0">e43093ad1bbf33009614ff37dc4bcbeb</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-10 07:43:17</sys_created_on>
+<sys_id>683093ad1bbf33009614ff37dc4bcbec</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d1a1fb3db0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-10 07:43:17</sys_updated_on>
+<table>incident</table>
+<target_name>Open a New Form</target_name>
+<type>Test Step</type>
+<update_domain>global</update_domain>
+<update_guid>b400dbad4ebf3300e7cb38864ea931fa</update_guid>
+<update_guid_history>b400dbad4ebf3300e7cb38864ea931fa:1379604172,76fdcb2d90bf33001c84cc292574227a:1379604172</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevopsTest">7ec90b651bbf33009614ff37dc4bcb7c</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_test_af1a4fa51bbf33009614ff37dc4bcb58</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test"><sys_atf_test action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description/><enable_parameterized_testing>false</enable_parameterized_testing><name>KP Test Case</name><parameters/><remember/><sys_class_name>sys_atf_test</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-10 07:24:04</sys_created_on><sys_id>af1a4fa51bbf33009614ff37dc4bcb58</sys_id><sys_mod_count>0</sys_mod_count><sys_name>KP Test Case</sys_name><sys_package display_value="DevopsTest" source="7ec90b651bbf33009614ff37dc4bcb7c">7ec90b651bbf33009614ff37dc4bcb7c</sys_package><sys_policy/><sys_scope display_value="DevopsTest">7ec90b651bbf33009614ff37dc4bcb7c</sys_scope><sys_update_name>sys_atf_test_af1a4fa51bbf33009614ff37dc4bcb58</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-10 07:24:04</sys_updated_on></sys_atf_test><sys_variable_value action="delete_multiple" query="document_key=af1a4fa51bbf33009614ff37dc4bcb58"/></record_update>]]></payload>
+<payload_hash>1480178040</payload_hash>
+<remote_update_set display_value="DevopsTest – 1.0.0">e43093ad1bbf33009614ff37dc4bcbeb</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-10 07:43:17</sys_created_on>
+<sys_id>68309fad1bbf33009614ff37dc4bcbed</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d1a1fb4790000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-10 07:43:17</sys_updated_on>
+<table/>
+<target_name>KP Test Case</target_name>
+<type>Test</type>
+<update_domain>global</update_domain>
+<update_guid>34001fad2cbf330062570550d9b9be05</update_guid>
+<update_guid_history>34001fad2cbf330062570550d9b9be05:1480178040,9bcb43294abf330007276187ad4f3222:1480178040</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevopsTest">7ec90b651bbf33009614ff37dc4bcb7c</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_step_fa6e436d1bbf33009614ff37dc4bcb87</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Submit the current form and confirm form submitted to server</description><display_name>Submit a Form</display_name><inputs/><mugshots_cache_json/><notes/><order>3</order><snapshot/><step_config display_value="Submit a Form">be8e0a935332120028bc29cac2dc34e4</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-10 07:35:37</sys_created_on><sys_id>fa6e436d1bbf33009614ff37dc4bcb87</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Submit a Form</sys_name><sys_package display_value="DevopsTest" source="7ec90b651bbf33009614ff37dc4bcb7c">7ec90b651bbf33009614ff37dc4bcb7c</sys_package><sys_policy/><sys_scope display_value="DevopsTest">7ec90b651bbf33009614ff37dc4bcb7c</sys_scope><sys_update_name>sys_atf_step_fa6e436d1bbf33009614ff37dc4bcb87</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-10 07:35:37</sys_updated_on><table/><test display_value="My New Test">5fbdc32d1bbf33009614ff37dc4bcb53</test><timeout/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=fa6e436d1bbf33009614ff37dc4bcb87"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>fa6e436d1bbf33009614ff37dc4bcb87</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-10 07:35:37</sys_created_on><sys_id>547e036d1bbf33009614ff37dc4bcbc5</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-10 07:35:37</sys_updated_on><value>form_submitted_to_server</value><variable display_value="">c796d40497302200abe4bb7503ac4ad8</variable></sys_variable_value></record_update>]]></payload>
+<payload_hash>1369879718</payload_hash>
+<remote_update_set display_value="DevopsTest – 1.0.0">e43093ad1bbf33009614ff37dc4bcbeb</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-10 07:43:17</sys_created_on>
+<sys_id>a03093ad1bbf33009614ff37dc4bcbed</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d1a1fb4310000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-10 07:43:17</sys_updated_on>
+<table/>
+<target_name>Submit a Form</target_name>
+<type>Test Step</type>
+<update_domain>global</update_domain>
+<update_guid>f0001fadfdbf33000d45536172d51600</update_guid>
+<update_guid_history>f0001fadfdbf33000d45536172d51600:1369879718,947e036d4dbf330089f21e4332a3d0c6:1369879718</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevopsTest">7ec90b651bbf33009614ff37dc4bcb7c</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_application_7ec987a51bbf33009614ff37dc4bcb45</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category/><description/><device_type>browser</device_type><hint/><name>DevopsTest</name><order/><roles>devopstest_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-10 07:15:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7ec987a51bbf33009614ff37dc4bcb45</sys_id><sys_mod_count>1</sys_mod_count><sys_name>DevopsTest</sys_name><sys_overrides/><sys_package display_value="DevopsTest" source="7ec90b651bbf33009614ff37dc4bcb7c">7ec90b651bbf33009614ff37dc4bcb7c</sys_package><sys_policy/><sys_scope display_value="DevopsTest">7ec90b651bbf33009614ff37dc4bcb7c</sys_scope><sys_update_name>sys_app_application_7ec987a51bbf33009614ff37dc4bcb45</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-10 07:15:18</sys_updated_on><title>DevopsTest</title><view_name/></sys_app_application></record_update>]]></payload>
+<payload_hash>-1135091456</payload_hash>
+<remote_update_set display_value="DevopsTest – 1.0.0">e43093ad1bbf33009614ff37dc4bcbeb</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-10 07:43:17</sys_created_on>
+<sys_id>a43093ad1bbf33009614ff37dc4bcbec</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d1a1fb4890000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-10 07:43:17</sys_updated_on>
+<table/>
+<target_name>DevopsTest</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>b8001fad83bf3300c427f488558abf06</update_guid>
+<update_guid_history>b8001fad83bf3300c427f488558abf06:-1135091456,bec987a50cbf3300780b06645398d5a9:-1135091456,76c987a515bf3300328302146e232947:1131308301</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevopsTest">7ec90b651bbf33009614ff37dc4bcb7c</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_7ec90b651bbf33009614ff37dc4bcb7c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>false</can_edit_in_studio><enforce_license>none</enforce_license><js_level>helsinki_es5</js_level><licensable>true</licensable><license_category>none</license_category><license_model>none</license_model><logo/><menu display_value="DevopsTest">7ec987a51bbf33009614ff37dc4bcb45</menu><name>DevopsTest</name><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>global</scope><scoped_administration>false</scoped_administration><short_description/><source>7ec90b651bbf33009614ff37dc4bcb7c</source><store_correlation_id/><store_url/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-10 07:15:18</sys_created_on><sys_id>7ec90b651bbf33009614ff37dc4bcb7c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-10 07:15:18</sys_updated_on><template/><trackable>true</trackable><user_role display_value="devopstest_user" name="devopstest_user">bac987a51bbf33009614ff37dc4bcb48</user_role><vendor/><vendor_prefix/><version>1.0.0</version></sys_app></record_update>]]></payload>
+<payload_hash>-1799223788</payload_hash>
+<remote_update_set display_value="DevopsTest – 1.0.0">e43093ad1bbf33009614ff37dc4bcbeb</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-10 07:43:17</sys_created_on>
+<sys_id>ac3093ad1bbf33009614ff37dc4bcbeb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d1a1fb3ad0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-10 07:43:17</sys_updated_on>
+<table/>
+<target_name>DevopsTest</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid>fc00dbad91bf330083bc7a52015563f7</update_guid>
+<update_guid_history>fc00dbad91bf330083bc7a52015563f7:-1799223788,7ac987a5d7bf3300a16fbbf9e6b80aa6:-1799223788</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevopsTest">7ec90b651bbf33009614ff37dc4bcb7c</application>
+<category>customer</category>
+<comments/>
+<name>sys_atf_step_82dec76d1bbf33009614ff37dc4bcb3f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Open the 'Incident' form with id 'Incident: INC0009009'</description><display_name>Open an Existing Record</display_name><inputs/><mugshots_cache_json/><notes/><order>4</order><snapshot/><step_config display_value="Open an Existing Record">5f2e0e535332120028bc29cac2dc34d3</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-10 07:37:54</sys_created_on><sys_id>82dec76d1bbf33009614ff37dc4bcb3f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Open an Existing Record</sys_name><sys_package display_value="DevopsTest" source="7ec90b651bbf33009614ff37dc4bcb7c">7ec90b651bbf33009614ff37dc4bcb7c</sys_package><sys_policy/><sys_scope display_value="DevopsTest">7ec90b651bbf33009614ff37dc4bcb7c</sys_scope><sys_update_name>sys_atf_step_82dec76d1bbf33009614ff37dc4bcb3f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-10 07:37:54</sys_updated_on><table>incident</table><test display_value="My New Test">5fbdc32d1bbf33009614ff37dc4bcb53</test><timeout/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=82dec76d1bbf33009614ff37dc4bcb3f"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>82dec76d1bbf33009614ff37dc4bcb3f</document_key><order>300</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-10 07:37:54</sys_created_on><sys_id>31fe0b6d1bbf33009614ff37dc4bcb97</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-10 07:37:54</sys_updated_on><value/><variable display_value="">6e55da4e53a0220002c6435723dc34a0</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>82dec76d1bbf33009614ff37dc4bcb3f</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-10 07:37:54</sys_created_on><sys_id>3dfe0b6d1bbf33009614ff37dc4bcb96</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-10 07:37:54</sys_updated_on><value>57af7aec73d423002728660c4cf6a71c</value><variable display_value="">ad351a4e53a0220002c6435723dc34f0</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>82dec76d1bbf33009614ff37dc4bcb3f</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-10 07:37:54</sys_created_on><sys_id>f1fe0b6d1bbf33009614ff37dc4bcb97</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-10 07:37:54</sys_updated_on><value>incident</value><variable display_value="">b124164e53a0220002c6435723dc34c5</variable></sys_variable_value></record_update>]]></payload>
+<payload_hash>-1686540145</payload_hash>
+<remote_update_set display_value="DevopsTest – 1.0.0">e43093ad1bbf33009614ff37dc4bcbeb</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-10 07:43:17</sys_created_on>
+<sys_id>ec3093ad1bbf33009614ff37dc4bcbec</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d1a1fb4160000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-10 07:43:17</sys_updated_on>
+<table>incident</table>
+<target_name>Open an Existing Record</target_name>
+<type>Test Step</type>
+<update_domain>global</update_domain>
+<update_guid>f400dbad2ebf33008ed4b487e61494fe</update_guid>
+<update_guid_history>f400dbad2ebf33008ed4b487e61494fe:-1686540145,39fe0b6d90bf3300382b201959660198:-1686540145</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevopsTest">7ec90b651bbf33009614ff37dc4bcb7c</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_bac987a51bbf33009614ff37dc4bcb48</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>devopstest_user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix/><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-10 07:15:18</sys_created_on><sys_id>bac987a51bbf33009614ff37dc4bcb48</sys_id><sys_mod_count>0</sys_mod_count><sys_name>devopstest_user</sys_name><sys_package display_value="DevopsTest" source="7ec90b651bbf33009614ff37dc4bcb7c">7ec90b651bbf33009614ff37dc4bcb7c</sys_package><sys_policy/><sys_scope display_value="DevopsTest">7ec90b651bbf33009614ff37dc4bcb7c</sys_scope><sys_update_name>sys_user_role_bac987a51bbf33009614ff37dc4bcb48</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-10 07:15:18</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>-1044495463</payload_hash>
+<remote_update_set display_value="DevopsTest – 1.0.0">e43093ad1bbf33009614ff37dc4bcbeb</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-10 07:43:17</sys_created_on>
+<sys_id>ec309fad1bbf33009614ff37dc4bcbed</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d1a1fb49b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-10 07:43:17</sys_updated_on>
+<table/>
+<target_name>devopstest_user</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>70001fad18bf3300bd50f3d398b24208</update_guid>
+<update_guid_history>70001fad18bf3300bd50f3d398b24208:-1044495463,fac987a5b3bf330088dd34d3508f2c4b:1887802506</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
